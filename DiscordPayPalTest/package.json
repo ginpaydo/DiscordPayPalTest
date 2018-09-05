@@ -1,0 +1,14 @@
+{
+  "name": "discord-pay-pal-test",
+  "version": "0.0.0",
+  "description": "DiscordPayPalTest",
+  "main": "app.js",
+  "author": {
+    "name": "y-toy"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "iconv-lite": "^0.4.24",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DiscordPayPalTest", "DiscordPayPalTest\DiscordPayPalTest.njsproj", "{7081E70E-D559-46DB-BB5F-2A53E9E9537E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7081E70E-D559-46DB-BB5F-2A53E9E9537E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7081E70E-D559-46DB-BB5F-2A53E9E9537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7081E70E-D559-46DB-BB5F-2A53E9E9537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7081E70E-D559-46DB-BB5F-2A53E9E9537E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B205D3BB-7C2F-4103-A049-3FBDD84B09E2}
+	EndGlobalSection
+EndGlobal
